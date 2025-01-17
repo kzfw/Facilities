@@ -1,9 +1,9 @@
 {
   "version": 1,
   "name": "ZFW (D10)",
-  "id": "c5d65f62-f0d0-42d1-8ea7-6108c34314a7",
+  "id": "78a5030f-76d0-4701-bb78-3ab912c6c05e",
   "updateUrl": "https://github.com/kzfw/Facilities/blob/main/vATIS%20Profile%20-%20ZFW%20(D10).json",
-  "updateSerial": 2025011701,
+  "updateSerial": 2025011702,
   "stations": [
     {
       "id": "9ff48909-c214-477d-8285-86c1f483170b",
@@ -721,7 +721,7 @@
         {
           "id": "06c23463-0b74-40fe-85bf-a02532779290",
           "name": "SOUTH VIS",
-          "airportConditions": "@SIMP RWYS 17R, 18L.",
+          "airportConditions": "@SIMP RWYS 17R, 18L. HELLO",
           "notams": "ASDE-X IN USE. OPERATE TRANSPONDERS WITH ALTITUDE REPORTING MODE ENABLED ON ALL AIRPORT SURFACES.",
           "template": "[FACILITY] ARRIVAL DEPARTURE INFO [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS]. [CLOSING].",
           "externalGenerator": {
