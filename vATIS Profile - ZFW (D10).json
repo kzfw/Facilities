@@ -2,6 +2,8 @@
   "version": 1,
   "name": "ZFW (D10)",
   "id": "c5d65f62-f0d0-42d1-8ea7-6108c34314a7",
+  "updateUrl": "https://github.com/kzfw/Facilities/blob/main/vATIS%20Profile%20-%20ZFW%20(D10).json",
+  "updateSerial": 2025011701,
   "stations": [
     {
       "id": "9ff48909-c214-477d-8285-86c1f483170b",
