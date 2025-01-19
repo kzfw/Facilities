@@ -2,7 +2,7 @@
   "version": 1,
   "name": "ZFW Consolidated",
   "id": "78a5030f-76d0-4701-bb78-3ab912c6c05e",
-  "updateUrl": "https://zfw.nyc3.cdn.digitaloceanspaces.com/uploads/58-d10-vatis.json",
+  "updateUrl": "https://github.com/kzfw/Facilities/blob/main/vATIS%20Profile%20-%20ZFW%20Consolidated.json",
   "updateSerial": 2025011705,
   "stations": [
     {
