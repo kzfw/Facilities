@@ -1,9 +1,9 @@
 {
   "version": 1,
   "name": "ZFW Consolidated",
-  "id": "2b7b27e6-2cdb-40f2-9a97-6472315f9cce",
+  "id": "7e509c88-5136-4aa1-b140-b5849d61820c",
   "updateUrl": "https://raw.githubusercontent.com/kzfw/Facilities/refs/heads/main/vATIS%20Profile%20-%20ZFW%20Consolidated.json",
-  "updateSerial": 2025011905,
+  "updateSerial": 2025011906,
   "stations": [
     {
       "id": "9ff48909-c214-477d-8285-86c1f483170b",
@@ -3519,7 +3519,7 @@
         {
           "id": "2935d379-7ee4-4a71-ae16-6713746666ec",
           "name": "NORTH VIS",
-          "airportConditions": "@SIMUL VIS APCH RWY 35L, RWY 35R & RWY 31 IN USE.",
+          "airportConditions": "@SIMUL VIS APCH RWY 35R & RWY 31 IN USE.",
           "notams": "TERMINAL RAMP IS NOT CONTROLLED, DO NOT CALL FOR PUSH OR POWER BACK. READBACK ALL RUNWAY HOLD SHORT INSTRUCTIONS.",
           "template": "[FACILITY] ARR/DEP INFO [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS]",
           "externalGenerator": {
@@ -3529,7 +3529,7 @@
         {
           "id": "6d46257d-58d6-4d2d-baab-fef14b0c8728",
           "name": "SOUTH VIS",
-          "airportConditions": "@SIMUL VIS RWY 17L AND RWY 17R IN USE. BE ALERT. DO NOT MISTAKE @PWA 8.8 MI NNW FOR OKC.",
+          "airportConditions": "@SIMUL VIS RWY 17L IN USE. BE ALERT. DO NOT MISTAKE @PWA 8.8 MI NNW FOR OKC.",
           "notams": "TERMINAL RAMP IS NOT CONTROLLED, DO NOT CALL FOR PUSH OR POWERBACK. READBACK ALL RUNWAY HOLD SHORT INSTRUCTIONS.",
           "template": "WILL ROGERS WORLD AIRPORT ARRIVAL DEPARTURE INFO [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS]",
           "externalGenerator": {
@@ -3539,7 +3539,7 @@
         {
           "id": "78220222-1212-455b-9757-5e677def1f02",
           "name": "SOUTH ILS",
-          "airportConditions": "ILS RWY 17L AND RWY 17R APCH, @RNAV GPS RWY 13 APCH IN USE.",
+          "airportConditions": "ILS RWY 17L APCH, @RNAV GPS RWY 13 APCH IN USE.",
           "notams": "TERMINAL RAMP IS NOT CONTROLLED, DO NOT CALL FOR PUSH OR POWERBACK. READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
           "template": "[FACILITY] ARR/DEP INFO [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS]",
           "externalGenerator": {
@@ -3549,7 +3549,7 @@
         {
           "id": "2d3b0601-0b60-45a4-a815-edae5a8b9232",
           "name": "NORTH ILS",
-          "airportConditions": "ILS RWY 35L AND 35R, @RNAV GPS RWY 31 APCH IN USE.",
+          "airportConditions": "ILS RWY 35R, @RNAV GPS RWY 31 APCH IN USE.",
           "notams": "TERMINAL RAMP IS NOT CONTROLLED, DO NOT CALL FOR PUSH OR POWERBACK. READBACK ALL RWY HOLD SHORT INSTRUCTIONS.",
           "template": "[FACILITY] ARR/DEP INFO [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS]",
           "externalGenerator": {
@@ -3575,7 +3575,13 @@
         }
       ],
       "airportConditionDefinitions": [],
-      "notamDefinitions": [],
+      "notamDefinitions": [
+        {
+          "text": "RWY 17R/^35L CLSD.",
+          "ordinal": 1,
+          "enabled": true
+        }
+      ],
       "transitionLevels": []
     },
     {
