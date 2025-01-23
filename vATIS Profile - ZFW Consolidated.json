@@ -3,10 +3,10 @@
   "name": "ZFW Consolidated",
   "id": "7e509c88-5136-4aa1-b140-b5849d61820c",
   "updateUrl": "https://raw.githubusercontent.com/kzfw/Facilities/refs/heads/main/vATIS%20Profile%20-%20ZFW%20Consolidated.json",
-  "updateSerial": 2025012301,
+  "updateSerial": 2025012302,
   "stations": [
     {
-      "id": "9ff48909-c214-477d-8285-86c1f483170b",
+      "id": "da2f9cf2-861b-45ee-8004-455ca95fda33",
       "identifier": "KDAL",
       "name": "Dallas Love",
       "atisType": "Combined",
@@ -391,7 +391,7 @@
       "transitionLevels": []
     },
     {
-      "id": "4157583b-2102-41b6-b429-868be9413be3",
+      "id": "39979192-8c4d-49f0-a47b-2efc42d9bd90",
       "identifier": "KDFW",
       "name": "Dallas Ft Worth Departure",
       "atisType": "Departure",
@@ -812,7 +812,7 @@
       "transitionLevels": []
     },
     {
-      "id": "26e0b4e8-ed16-4eea-b218-124aeeec51bf",
+      "id": "d3b40878-c91f-4753-9ab2-036e15a7df4d",
       "identifier": "KDFW",
       "name": "Dallas Ft Worth Arrival",
       "atisType": "Arrival",
@@ -1234,7 +1234,7 @@
       "transitionLevels": []
     },
     {
-      "id": "c9d114c2-a3b3-4755-863e-ed7448d624b2",
+      "id": "bc92817a-d7a3-4880-9345-d01a203e42c5",
       "identifier": "KABI",
       "name": "Abilene Regional",
       "atisType": "Combined",
@@ -1618,7 +1618,7 @@
       "transitionLevels": []
     },
     {
-      "id": "f731172d-bb28-49be-8980-009d46279351",
+      "id": "04d0727b-40d8-433b-8b08-0a72425606d5",
       "identifier": "KGGG",
       "name": "East Texas Regional ",
       "atisType": "Combined",
@@ -2003,7 +2003,7 @@
       "transitionLevels": []
     },
     {
-      "id": "1ebb4efe-a022-4447-bcb8-6ef1db260d91",
+      "id": "5f1cb9eb-16ae-4602-af51-f9b4a2685768",
       "identifier": "KLBB",
       "name": "Lubbock Preston Smith",
       "atisType": "Combined",
@@ -2414,7 +2414,7 @@
       "transitionLevels": []
     },
     {
-      "id": "6d98cce7-492c-4f15-b2b4-45b7716ac230",
+      "id": "8a0f9aef-1699-4efd-85c5-0933b3fcdbef",
       "identifier": "KMAF",
       "name": "Midland International Air and Space Port",
       "atisType": "Combined",
@@ -2825,7 +2825,7 @@
       "transitionLevels": []
     },
     {
-      "id": "2be03070-93dc-4200-b63f-8d5602d02af7",
+      "id": "71c78ab7-067d-479b-ae49-339f915092b9",
       "identifier": "KGYI",
       "name": "North Texas Regional",
       "atisType": "Combined",
@@ -3204,7 +3204,7 @@
       "transitionLevels": []
     },
     {
-      "id": "9b5e39e5-9b49-41ca-a273-c04489ca1140",
+      "id": "c4903e64-9ecd-4c15-ba86-8c9cc7ed45d2",
       "identifier": "KOKC",
       "name": "Oklahoma City",
       "atisType": "Combined",
@@ -3600,7 +3600,7 @@
       "transitionLevels": []
     },
     {
-      "id": "0ce2ed94-827e-40be-a4ce-00f6346481ae",
+      "id": "88873d80-3966-4fb7-880b-458412d9a626",
       "identifier": "KSHV",
       "name": "Shreveport Regional",
       "atisType": "Combined",
@@ -4013,7 +4013,7 @@
       "transitionLevels": []
     },
     {
-      "id": "e70a6653-74d3-40cb-bbfb-71b032b8ce45",
+      "id": "38110cf0-5227-454e-82bc-97482bb92899",
       "identifier": "KTYR",
       "name": "Tyler Pounds Regional",
       "atisType": "Combined",
@@ -4390,7 +4390,7 @@
       "transitionLevels": []
     },
     {
-      "id": "181fc40e-f75a-47fe-a254-84b710e3b5eb",
+      "id": "a5d29e0d-6bf7-4c60-a2b7-4a64090c1377",
       "identifier": "KACT",
       "name": "Waco Regional",
       "atisType": "Combined",
@@ -4795,7 +4795,7 @@
       "transitionLevels": []
     },
     {
-      "id": "1eea9623-66a5-4b1c-bd06-77f9a7cdbf81",
+      "id": "1dd147e6-e05d-4a75-bae5-1dbbcddefad8",
       "identifier": "KPWA",
       "name": "Wiley Post",
       "atisType": "Combined",
@@ -5170,7 +5170,7 @@
       "transitionLevels": []
     },
     {
-      "id": "c1a0d6f6-2451-47c8-97d2-f72aabf09d0b",
+      "id": "10fccc14-a5fb-4819-bd5f-bd999fd8a45e",
       "identifier": "KADS",
       "name": "Addison",
       "atisType": "Combined",
@@ -5551,7 +5551,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "93bd80ae-127c-49b2-9cf7-07244a8d2a8a",
+      "id": "6450af3a-3ea2-46cb-bc06-ebc60214144b",
       "identifier": "KAFW",
       "name": "Alliance Fort Worth",
       "atisType": "Combined",
@@ -5933,7 +5933,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "4f2647ef-3f22-4597-85ee-c40c3f5ba046",
+      "id": "790ec992-effd-4623-b774-9a0e5af1cd35",
       "identifier": "KFTW",
       "name": "Fort Worth Meacham",
       "atisType": "Combined",
@@ -6318,7 +6318,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "d34a0f14-6a3f-4579-b9cf-6f4d912b9374",
+      "id": "49b5b443-c14f-498c-9bd5-53470b9a9a69",
       "identifier": "KADM",
       "name": "Ardmore",
       "atisType": "Combined",
@@ -6699,7 +6699,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "80fb863a-e412-47b6-bdd5-47055e44c152",
+      "id": "721b7bc4-24e1-4302-9aab-4e99e5b488d0",
       "identifier": "KCNW",
       "name": "TSTC Waco",
       "atisType": "Combined",
@@ -7078,7 +7078,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "f7e824c7-3ece-42b4-96e4-750c8d3e6153",
+      "id": "1f82f9fd-4a01-4678-b36c-da1a438720ff",
       "identifier": "KCSM",
       "name": "Clinton-Sherman",
       "atisType": "Combined",
@@ -7457,7 +7457,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "d66286a1-1cf4-4e49-b3f9-c8bac02a73ec",
+      "id": "3b1931d3-4fa7-480e-9627-4d01fc6ae6ab",
       "identifier": "KDTN",
       "name": "Shreveport Downtown",
       "atisType": "Combined",
@@ -7848,7 +7848,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "b88f86d7-27a4-41b6-8d68-0acd5c648002",
+      "id": "cb6696bb-93e7-49c1-852a-573b8e15e7c8",
       "identifier": "KDTO",
       "name": "Denton Enterprise",
       "atisType": "Combined",
@@ -8226,7 +8226,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "0a600f8a-276a-4e21-8d64-2c915af352d3",
+      "id": "752e66db-4b7f-4cc4-8a06-37d4f77d6eb7",
       "identifier": "KFWS",
       "name": "Fort Worth Spinks",
       "atisType": "Combined",
@@ -8604,7 +8604,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "9727b9f9-df4a-4fbb-b911-f5f96c443dc9",
+      "id": "81749686-7f93-4ab9-ba99-609c2145d8ae",
       "identifier": "KGKY",
       "name": "Arlington",
       "atisType": "Combined",
@@ -8982,7 +8982,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "ec4a18bd-c4f9-4949-9adb-fe641629b668",
+      "id": "fd1fb1b5-77ac-467e-b258-f218a66b612a",
       "identifier": "KGPM",
       "name": "Grand Prairie",
       "atisType": "Combined",
@@ -9325,7 +9325,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "83d442ad-509c-42a1-b428-7c3534d55e14",
+      "id": "e4e27f0e-7dff-4136-8f2a-89fc163e15e9",
       "identifier": "KGVT",
       "name": "Greenville Majors",
       "atisType": "Combined",
@@ -9666,7 +9666,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "d5ca43ad-df26-4290-b108-f702b7644df3",
+      "id": "a649e323-59c5-479f-9a26-4c6ec305b5fb",
       "identifier": "KHQZ",
       "name": "Mesquite Metro",
       "atisType": "Combined",
@@ -10044,7 +10044,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "7506989c-f656-4406-85d3-278789d91ade",
+      "id": "cbec2edc-0f44-4266-bff2-eb77e85db0bd",
       "identifier": "KHOB",
       "name": "Hobbs",
       "atisType": "Combined",
@@ -10423,7 +10423,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "8642c13d-2b8c-4f47-846c-8672275dcaa0",
+      "id": "54bd82d0-6af4-4697-8bc2-192c4b45eee4",
       "identifier": "KLAW",
       "name": "Lawton",
       "atisType": "Combined",
@@ -10742,7 +10742,7 @@
       },
       "notamsBeforeFreeText": false,
       "airportConditionsBeforeFreeText": false,
-      "frequency": 0,
+      "frequency": 120750000,
       "useDecimalTerminology": false,
       "atisVoice": {
         "useTextToSpeech": true,
@@ -10801,7 +10801,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "f09d7cda-7e54-4ce3-a3bb-e16bffc38ff3",
+      "id": "060f044d-c10b-49c4-bbfd-71ff408b1deb",
       "identifier": "KMLU",
       "name": "Monroe",
       "atisType": "Combined",
@@ -11179,7 +11179,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "16735561-023a-47b9-82cc-68fa15e1a856",
+      "id": "21effce9-fa98-4ce3-8ef1-f064e228164d",
       "identifier": "KOUN",
       "name": "Westheimer",
       "atisType": "Combined",
@@ -11557,7 +11557,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "59bef242-c2a0-4feb-9d06-76b4600a6a92",
+      "id": "a39c5a67-6ece-4a38-9fe4-2a22481aa730",
       "identifier": "KSJT",
       "name": "San Angelo",
       "atisType": "Combined",
@@ -11935,7 +11935,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "41a18c02-5439-4757-85d5-35c588c67705",
+      "id": "ec016083-d1c9-435c-b35b-3a2eac306a87",
       "identifier": "KSPS",
       "name": "Witchita Falls",
       "atisType": "Combined",
@@ -12314,7 +12314,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "33ab9130-63e3-4326-8e7b-9c171aa0ab9f",
+      "id": "850ab5f9-d036-45b4-a13b-9b9424d4ac27",
       "identifier": "KTKI",
       "name": "Mckinney National",
       "atisType": "Combined",
@@ -12692,7 +12692,7 @@
       "notamDefinitions": []
     },
     {
-      "id": "15deb210-6928-48eb-a643-f1132ca7cef4",
+      "id": "88ca673e-9849-4ef5-8658-41603784e2d2",
       "identifier": "KTXK",
       "name": "Texarkana",
       "atisType": "Combined",
